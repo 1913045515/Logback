@@ -1,0 +1,3 @@
+437  [main] INFO  com.logback.test.LogbackFileTest - ======info
+437  [main] WARN  com.logback.test.LogbackFileTest - ======warn
+437  [main] ERROR com.logback.test.LogbackFileTest - ======error

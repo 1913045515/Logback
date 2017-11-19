@@ -1,0 +1,9 @@
+359  [main] INFO  com.logback.test.LogbackFileTest - ======info
+375  [main] WARN  com.logback.test.LogbackFileTest - ======warn
+375  [main] ERROR com.logback.test.LogbackFileTest - ======error
+375  [main] INFO  com.logback.test.LogbackFileTest - ======info
+375  [main] WARN  com.logback.test.LogbackFileTest - ======warn
+375  [main] ERROR com.logback.test.LogbackFileTest - ======error
+375  [main] INFO  com.logback.test.LogbackFileTest - ======info
+375  [main] WARN  com.logback.test.LogbackFileTest - ======warn
+375  [main] ERROR com.logback.test.LogbackFileTest - ======error
